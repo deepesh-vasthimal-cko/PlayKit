@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
                    DESC
   s.author       = { "Deepesh" => "deepesh" }
   s.platform     = :ios, "11.0"
-  s.source       = { :git => "https://github.com/deepesh259nitk/PlayKit.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/deepesh-vasthimal-cko/PlayKit.git", :tag => "#{s.version}" }
 
   s.vendored_frameworks = "PlayKit.xcframework"
 
