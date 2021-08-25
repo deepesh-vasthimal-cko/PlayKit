@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "PlayKit"
-  s.version      = "1.0.0"
+  s.version      = "1.0.3"
   s.summary      = "iOS XCFramework Containing pod spec config"
   s.description  = <<-DESC
   iOS XCFramework Containing pod spec config
