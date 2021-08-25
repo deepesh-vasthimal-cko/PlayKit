@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
   iOS XCFramework Containing pod spec config
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https:www.google.com"
   s.swift_version = "5.0"
   s.license      = <<-DESC
                    DESC
